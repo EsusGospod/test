@@ -1,0 +1,4 @@
+12/10/18 21:28:37 [AppID 236390] Exit Code (0) :  "D:\Steam\steamapps\common\War Thunder\launcher.exe" --uninstall GLE 0
+12/10/18 21:28:51 [AppID 236390] Exit Code (0) :  "D:\Steam\steamapps\common\War Thunder\unins000.exe"  GLE 131
+12/10/18 21:34:51 [AppID 236390] Exit Code (0) :  "D:\Steam\steamapps\common\War Thunder\launcher.exe" --uninstall GLE 0
+12/10/18 21:34:51 [AppID 236390] CreateProcess failed:  "D:\Steam\steamapps\common\War Thunder\unins000.exe"  GLE 2
